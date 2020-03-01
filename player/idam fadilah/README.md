@@ -3,8 +3,8 @@ Name  : [nama kalian] \
 class : [kelas kalian] \
 rank  : -
 
-#deficiency :
+## deficiency :
 [kekurangan]
 
-#advantages :
+## advantages :
 [kelebihan]
