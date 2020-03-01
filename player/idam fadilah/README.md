@@ -1,6 +1,6 @@
 # Player data
-Name  : [nama kalian]
-class : [kelas kalian]
+Name  : [nama kalian] \n
+class : [kelas kalian] \n
 rank  : -
 
 #deficiency :
