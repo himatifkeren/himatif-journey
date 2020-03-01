@@ -1,1 +1,2 @@
-# himatif-journey
+# himatif journey
+WorkHard, PrayHard, IstiraHard
