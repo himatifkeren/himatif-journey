@@ -1,7 +1,7 @@
 # Player data
 Name  : [nama] \
 class : [kelas] \
-rank  : -
+rank  : - \
 birthdate : [tanggal lahir]
 
 ## deficiency :
