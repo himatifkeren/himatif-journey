@@ -1,7 +1,8 @@
 # Player data
-Name  : [nama kalian] \
-class : [kelas kalian] \
+Name  : [nama] \
+class : [kelas] \
 rank  : -
+birthdate : [tanggal lahir]
 
 ## deficiency :
 [kekurangan]
