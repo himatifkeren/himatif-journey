@@ -1,6 +1,8 @@
 # himatif journey
 ### WorkHard, PrayHard, IstiraHard
 
+# Player Tier
+
 ### Diamond
 
 ### Ruby
@@ -12,3 +14,5 @@
 ### Jade
 
 ### Topaz
+
+### natural stone
