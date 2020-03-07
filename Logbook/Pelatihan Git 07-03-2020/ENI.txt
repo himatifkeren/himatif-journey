@@ -1,0 +1,4 @@
+himatif journey
+Buat file txt dengan isi kesan pesan dalam pelatihan hari ini, save dengan nama kalian masing-masing.
+
+pelatihan hari ini pada tanggal 07 maret 2020 tepatnya hari sabtu, kami mengadakan pelatihan git dan gitHub. pesan dan kesan saya menjalani pelattihan ini,yaitu pelatihannya sangat seru dan diajarkan satu per satu dalam setiap langkah nya.
