@@ -1,0 +1,2 @@
+kesan pesan pelatihan git hari ini jadi kita bisa belajar menyimpan dan membuat file didalam git, selain 
+menggunakan google drive. dengan menggunakan git kita dapat menyimpan file dengan lebih fleksibel
