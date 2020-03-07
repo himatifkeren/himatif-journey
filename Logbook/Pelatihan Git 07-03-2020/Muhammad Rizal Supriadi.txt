@@ -1,0 +1,4 @@
+Assalamualaikum
+Pada pelatihan git kali ini ada hal baru yang saya pelajari mengenai apa brach serta cara melihat network apa saja yang telah kita buat untuk dapat memudahkan kita dalam melakukan controlling 
+maksud dari controlling merupakan suatu kelebihan yang dimiliki aplikasi ini karena ketika kita menambahkan suatu program tetapi program yang kita tambahkan itu error, maka kita dapat mengembalikan
+program sebelumnya.
