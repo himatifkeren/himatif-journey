@@ -1,0 +1,9 @@
+Kesan dan Pesan Pelatihan Himatif tentang Git dan GitHub
+Muhammmad Ilham Ferdiansyah
+
+Kesan :
+1. Pelatihannya sangat menyenangkan dan memberikan informasi mengenai VCS(Version Control System) yang diantaranya Git dan GitHub
+2. Walaupun sedikit ngantuk tetapi selalu diselingi bercanda oleh teman-teman
+
+Pesan :
+1. Untuk pelatihan kedepannya diharapkan membahas materi yang sangat berguna lagi
