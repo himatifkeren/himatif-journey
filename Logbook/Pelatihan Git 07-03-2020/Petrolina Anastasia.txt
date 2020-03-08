@@ -1,0 +1,3 @@
+kesan pesan saya pelatihan git kemarin adalah 
+1. dapat belajar menggunakan git dengan baik dan benar
+2. dapat mengerti arti apa itu git dan hal-hal apa saja yang dapat dilakukan dengan git
